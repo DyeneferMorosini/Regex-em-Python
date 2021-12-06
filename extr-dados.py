@@ -12,6 +12,3 @@ for i in lista:
 
 print(noticias)
 
-'''<h3 class="thumb-title title-xsmall title-lg-small"> Batel, Cabral, Cristo Rei, Bacacheri e mais 10 bairros de Curitiba sem água neste domingo </h3>'''
-
-
