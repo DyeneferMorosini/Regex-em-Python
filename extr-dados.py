@@ -11,4 +11,3 @@ for i in lista:
     noticias+=i+'\n\n'
 
 print(noticias)
-
